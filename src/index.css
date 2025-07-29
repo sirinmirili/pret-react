@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply font-montserrat text-[#372F31];
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .h1,
+  .h2,
+  .h3 {
+    font-size: 40px !important;
+  }
+  .p,
+  .a {
+    font-size: 12px !important;
+  }
+}
+
+/* @media only screen and (max-width: 1200px) {
+  .h1,.h2,.h3{
+        font-size: 30px !important;
+  }
+  .p,.a {
+    font-size: 12px !important;
+  }
+}
+
+@media only screen and (max-width: 1800px) {
+  .h1,.h2,.h3{
+        font-size: 30px !important;
+  }
+  .p,.a {
+    font-size: 12px !important;
+  }
+} */
