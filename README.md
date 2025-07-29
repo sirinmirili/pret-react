@@ -7,7 +7,7 @@
 A responsive React application for Pret, designed with simplicity and scalability in mind.
 
 🌐 **Live Preview:**  
-[https://6888a82a0c4cf19ecac91bb3--magenta-snickerdoodle-51f7e2.netlify.app/](https://6888a82a0c4cf19ecac91bb3--magenta-snickerdoodle-51f7e2.netlify.app/)
+[Click here](https://zingy-lamington-ae2fb2.netlify.app/)
 
 ---
 
